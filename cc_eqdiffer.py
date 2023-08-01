@@ -1,3 +1,8 @@
+"""
+    CodeChef EQDIFFER
+    https://www.codechef.com/problems/EQDIFFER
+"""
+
 import os
 import sys
 
